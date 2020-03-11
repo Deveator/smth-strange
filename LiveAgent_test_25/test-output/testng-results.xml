@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="20" total="21" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60721" started-at="2020-03-11T11:24:43 MSK" finished-at="2020-03-11T11:25:44 MSK">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60721" started-at="2020-03-11T11:24:43 MSK" finished-at="2020-03-11T11:25:44 MSK">
+      <class name="autotestsSet.PasswordRequirementsTests">
+        <test-method status="PASS" signature="PasswordReqsPresence_Test()[pri:1, instance:autotestsSet.PasswordRequirementsTests@57855c9a]" name="PasswordReqsPresence_Test" duration-ms="60519" started-at="2020-03-11T11:24:43 MSK" finished-at="2020-03-11T11:25:44 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PasswordReqsPresence_Test -->
+      </class> <!-- autotestsSet.PasswordRequirementsTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
