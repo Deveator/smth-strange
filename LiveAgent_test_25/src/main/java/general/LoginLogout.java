@@ -11,6 +11,15 @@ public class LoginLogout extends Help{
 		
 		System.out.println("Starting test --> " + new Object() {
 		}.getClass().getEnclosingMethod().getName() + " - TEST");
+		
+		System.out.println("Y writes");
+		System.out.println("Y writes");
+		
+		System.out.println("Y writes");
+		System.out.println("Y writes");
+		
+		System.out.println("Y writes");
+		System.out.println("Y writes");
 
 		// Set GoogleChrome Driver
 		Help.setGCD();
