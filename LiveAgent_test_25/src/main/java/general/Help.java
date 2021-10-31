@@ -102,6 +102,7 @@ public class Help {
 	private static final SecureRandom RANDOM = new SecureRandom();
 
 	public static String newSt = "newSt";
+	public static String newSt_1 = "newSt_1";
 
 	public static void setGCD() {
 
