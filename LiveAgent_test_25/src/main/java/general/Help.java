@@ -117,6 +117,8 @@ public class Help {
 		int b = 10;
 		int c = a +b;
 		int e = a +b;
+		int d = b -a;
+
 
 
 
