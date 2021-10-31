@@ -111,6 +111,16 @@ public class Help {
 	public static String newSt_6 = "newSt_1";
 
 
+	public static void trainMergeRebase() {
+
+		int a = 5;
+		int b = 10;
+
+
+
+	}
+
+
 
 
 
