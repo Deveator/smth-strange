@@ -118,6 +118,7 @@ public class Help {
 		int e = a +b;
 		int d = b -a;
 		int f = b -a;
+		int g = b -a;
 	}
 
 	public static void setGCD() {
