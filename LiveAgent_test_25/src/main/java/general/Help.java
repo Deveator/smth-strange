@@ -105,6 +105,7 @@ public class Help {
 	public static String newSt_1 = "newSt_1";
 	public static String newSt_2 = "newSt_2";
 	public static String newSt_3 = "newSt_3";
+	public static String newSt_4 = "newSt_1";
 	public static void setGCD() {
 
 		System.setProperty("webdriver.chrome.driver",
