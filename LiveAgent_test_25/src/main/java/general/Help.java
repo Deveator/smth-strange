@@ -121,6 +121,7 @@ public class Help {
 		int f = b -a;
 		int g = b -a;
 		int x = b -a;
+		int y = b -a;
 	}
 
 	public static void setGCD() {
