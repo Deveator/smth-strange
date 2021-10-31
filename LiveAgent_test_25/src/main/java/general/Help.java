@@ -101,6 +101,8 @@ public class Help {
 //	private static final String DIGITS = "0123456789";
 	private static final SecureRandom RANDOM = new SecureRandom();
 
+	public static String newSt = "newSt";
+
 	public static void setGCD() {
 
 		System.setProperty("webdriver.chrome.driver",
