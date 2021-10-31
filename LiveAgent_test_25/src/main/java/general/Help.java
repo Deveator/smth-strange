@@ -107,6 +107,7 @@ public class Help {
 	public static String newSt_3 = "newSt_3";
 	public static String newSt_4 = "newSt_1";
 	public static String newSt_5 = "newSt_1";
+	public static String newSt_6 = "newSt_1";
 
 
 
